@@ -1,0 +1,19 @@
+table{
+    width: 60%;
+    margin: 0 auto;
+
+
+}
+table thead tr th,td{
+    padding: 15px ;
+
+}
+.title{
+    text-align: center;
+    padding: 20px 0;
+}
+.form{
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+}
